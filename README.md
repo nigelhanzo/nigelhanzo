@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nigelhanzo
-- 👀 I’m interested in ...
+- 👀 I’m interested tech.. 
 - 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on homelab related projects
+- 📫 How to reach me ?? i wonder
 
 <!---
 nigelhanzo/nigelhanzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
